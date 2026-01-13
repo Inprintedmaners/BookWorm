@@ -10,7 +10,7 @@ How To Install:
 
 3. Select Download ZIP.
 
-4. Save the file to your computer.**
+4. Save the file to your computer.
 
 5. Unzip the file by right clicking and choosing Extract All
 
